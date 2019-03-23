@@ -90,3 +90,6 @@ Caramel has been designed for any browser that supports [CSS3](https://html5test
 Chrome | Firefox | Safari | Opera | Edge | IE
 :----: | :-----: | :----: | :---: | :--: | :-:
   21+  |   28+   |   7+   | 12.1+ |  20+ | 10, 11
+  
+  ### Gitlab Support
+  yes
